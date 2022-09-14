@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  iOSAppWithoutStoryboardTemplate
+//  ConferenceContacts
 //
 //  Created by Vivian Phung on 9/14/22.
 //

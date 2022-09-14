@@ -1,13 +1,13 @@
 //
-//  iOSAppWithoutStoryboardTemplateUITestsLaunchTests.swift
-//  iOSAppWithoutStoryboardTemplateUITests
+//  ConferenceContactsUITestsLaunchTests.swift
+//  ConferenceContactsUITests
 //
 //  Created by Vivian Phung on 9/14/22.
 //
 
 import XCTest
 
-final class iOSAppWithoutStoryboardTemplateUITestsLaunchTests: XCTestCase {
+final class ConferenceContactsUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

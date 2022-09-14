@@ -1,14 +1,14 @@
 //
-//  iOSAppWithoutStoryboardTemplateTests.swift
-//  iOSAppWithoutStoryboardTemplateTests
+//  ConferenceContactsTests.swift
+//  ConferenceContactsTests
 //
 //  Created by Vivian Phung on 9/14/22.
 //
 
 import XCTest
-@testable import iOSAppWithoutStoryboardTemplate
+@testable import ConferenceContacts
 
-final class iOSAppWithoutStoryboardTemplateTests: XCTestCase {
+final class ConferenceContactsTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
